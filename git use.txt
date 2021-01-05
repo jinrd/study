@@ -1,0 +1,7 @@
+push 전에는 pull 이 있다.
+
+git pull origin master / 지정 해놓은 repository 에서 끌어온다.
+git status / 현재 local 폴더와 git 상태 확인
+git add. / 변경된 파일들을 모두 tracking
+git commit -m "message" / commit 을 달수 있는 
+git push origin +master / 실제로 git 에 push
