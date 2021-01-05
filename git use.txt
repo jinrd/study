@@ -7,3 +7,5 @@ git commit -m "message" / commit 을 달수 있는
 git push origin +master / 실제로 git 에 push
 
 # 추가 수정
+#asdfasdfasdfasdfsd
+# 다시 수정
